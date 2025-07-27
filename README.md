@@ -87,7 +87,7 @@ I’ve worked across domains including aerospace, robotics, and healthcare, appl
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-raj-vepamaninti-2430971b9)
 - 📧 [Email](mailto:adityarajv2002@gmail.com)
-- 📄 *Google Scholar link coming soon*
+  
 
 ---
 
